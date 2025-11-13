@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Ercbloxd
+# 👋 Hello! I'm Ericbloxd
 
 ### 🚀 Solo Roblox Developer & intermediate Luau Engineer
 
