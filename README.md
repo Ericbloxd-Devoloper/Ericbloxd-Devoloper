@@ -53,6 +53,4 @@ My repositories are a mix of projects, tools, and experiments.
 ### 📫 How to Reach Me
 
 * **Roblox:** `https://www.roblox.com/users/9056231259/profile`
-* **X (Twitter):** `[@YourTwitterHandle]` (Great for devlogs)
-* **Discord:** `YourDiscordTag#0000`
-* **Portfolio/Main Game:** `[Link to your Roblox Game or personal website]`
+
